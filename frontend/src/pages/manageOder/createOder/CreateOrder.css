@@ -1,0 +1,45 @@
+.create-container{
+    padding-top: 80px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.form-orders{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: fit-content;
+    padding: 20px;
+}
+
+.form-item{
+    width: 30%;
+}
+
+.form-order{
+    width: 50%;
+}
+
+.select{
+    width: 20%;
+    height: 40px;
+}
+/* 
+.phongbi-container{
+    background-image: url("../../../assets/phongbi.png");
+    position: relative;
+    width: 100%;
+    height: 1000vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.phongbi-item{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+ */
